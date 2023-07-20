@@ -47,3 +47,12 @@
   ### GitHub
   [Github Profile](https://github.com/DamionG22)
 
+
+  #### Screenshots
+  
+![image](https://github.com/DamionG22/Horiseon-landing-page-refactor/assets/130415895/eb4cb499-3d21-4401-b86d-c82d3f515140)
+
+![image](https://github.com/DamionG22/Horiseon-landing-page-refactor/assets/130415895/4f6d91b3-0991-4dd0-9477-4b31a0177ffa)
+
+
+
