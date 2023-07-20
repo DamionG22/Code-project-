@@ -1,7 +1,7 @@
 # Code-project-
 Repo
 **HOW TO USE **
-This repo can be used by searching the url(https://damiong22.github.io/Horiseon-landing-page-refactor)
+This repo can be used by searching the url"https://damiong22.github.io/Horiseon-landing-page-refactor/"
 ** REFACTORING**
 The purpose of this repo was to clean up existing code and add "alt text" for accessibilty, without changing the existing codes fucntions.
 This was achieved in several ways including 
